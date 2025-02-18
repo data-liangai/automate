@@ -1,2 +1,2 @@
-# automate
-Some automated office.
+# automated_office
+Some automated office projects
