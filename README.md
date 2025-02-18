@@ -1,0 +1,2 @@
+# automate
+Some automated office.
